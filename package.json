@@ -6,9 +6,24 @@
   "main": "dist/index.js",
   "module": "dist/react-form-manager.esm.js",
   "typings": "dist/index.d.ts",
+  "homepage": "https://github.com/joseaburt/react-form-manager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseaburt/react-form-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joseaburt/react-form-manager/issues"
+  },
   "files": [
     "dist",
     "src"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "form",
+    "framework",
+    "form-validation"
   ],
   "scripts": {
     "analyze": "size-limit --why",
