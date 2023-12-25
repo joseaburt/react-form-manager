@@ -1,6 +1,6 @@
 {
   "name": "@joseaburt/react-form-manager",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "author": "JoseAburto",
   "main": "dist/index.js",
